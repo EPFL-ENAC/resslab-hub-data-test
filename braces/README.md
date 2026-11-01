@@ -50,3 +50,5 @@ Underscores separate the parts (and replace the spaces inside a name); the speci
 ## Submitting data
 
 Either use the submission form at <https://resslab-hub.epfl.ch/contribute/new> (pick "Braces", start from the template CSV, attach the `force_displacement` files named after their `id`, and submit: the form runs the checks and opens a pull request on this repository for you), or open the pull request yourself following the [repository README](../README.md).
+
+Test line for resslab-hub#267, close this pull request.
